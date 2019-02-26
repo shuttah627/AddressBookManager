@@ -1,0 +1,12 @@
+~~TO DO~~
+
+
+~~DONE~~
+REFACTOR LIKE MAD
+ - default values in constructors
+ - return values
+ - comments
+Unit Tests
+Unique set of everything
+Saving and Loading
+Input validation with error catching

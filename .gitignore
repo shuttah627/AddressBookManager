@@ -1,6 +1,2 @@
-/.
-/./
-
-!.gitignore
-!*.py
-!/books/
+/.vscode/
+/__pycache__/
